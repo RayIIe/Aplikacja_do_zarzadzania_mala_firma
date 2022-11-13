@@ -1,0 +1,1 @@
+# Aplikacja_do_zarzadzania_mala_firma

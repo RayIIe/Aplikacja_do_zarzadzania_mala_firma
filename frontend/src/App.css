@@ -1,0 +1,9 @@
+body {
+    background-color: #9fff9c;
+    color: white;
+    text-align: center;
+    size: auto;
+}
+.modal{
+    max-width: 200px;
+}
